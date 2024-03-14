@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tidy-centaur-416912",
+  "private_key_id": "8de13a37c5b07d3b08d3f1c51c9cf84f2e6c8e8a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCq/y5p7xHuShc+\n8QlqXoJsoGAWAvnvyms5CQTpej4ktGAq3zTKLdYRU3QCD+6KO+5IBB9FmS/ATpi0\nxYn/KCjrMLKEEGD7dUpYBrKiSiNwaOYmHAulZR0G8q6J3V1shKeB6qT/mGYBvhtH\nN8ZyKv558A6WIDi8VUD7PiNoNlNQvDsJ4aGjrTdxQTIjP2WAyu3gQB7mEtmDo/U4\noqHYkUQCmiSbEAONCYFbdXB3uyItZ9WfC9Zfs3WoIXUXI4Q5R23q6VDpjzWBNxwe\nq8bVFa7k0SSPey/mytgZ3tl2MdYryg/MS2kBRrxNJXdmpnMZL+CWHt5PrDAWSmTs\nDq/aVD0zAgMBAAECggEAH/kC1q/q7GFSI2SyW/8758+856C61wlELy/uiTFgOUC4\n0otVtZAIfMjb4h7UfWhjT3fl2P+hnBWWHAbrnJgHvqImXucpGxt9QSRPdmTiZ3xV\nvD52NwDHAquR0xlfBJFxOKuFGn2GZUEEnLZjFqnPV0F5mLyBn0VZlyCxQiUWQvwA\nUnW7QG9rOUWX9r3pfD9grxWQlVhTFiAYQu2tfTdiSBEbsrAAqk4+V0/9/EoqfrNs\nC1OM+rr1PYbbjJGDXt669RaxHDfP6rLckof1bspUL0S5SEw0JduSutq1BkJR5Qi1\n/7KVa+r2po/x1nE7rIkwjpei40JUCdFygpWvsjhqkQKBgQDq0R1V0n45k3MF39s/\nswF/kLN2/kolokUsMVJGx3aXlYRp2WmL0XNCazkZUFbYSO9kEn6hw+OWpWPSZuqv\n/emuGFaP6spMBHZJh1G80/N03A68h5fZz2/V6o6yDECpreXTyUIsbgr2wwFG+YhY\niJsPIcOsOIuL4DGDI4j9jw1ptQKBgQC6bDMb2PubSaDa5/ljo2bOJk4dYM7rUOd9\nIW3YZRwwLVZ/OJGhwmDgWkWsLMdL1o8IPfezvwknvldUe+NtZdCcxWCcaqxswa1+\nHsHJBHCBnZxUyiUCO6DbMWn6WjQweX3jV2HgDwa88T9hjdo/NnBcd/y8nyUrKj3k\n6pIZlO+8RwKBgGvAI37zRTq0X46th1U2lhRsWP3ceDfGu4ko5MFX3CJ42LcdreIb\n7ZDn1N65z/AVn8xC9FrUocXKBQFSepThpe5eerI1oji5v3HEJ4zHkarpI9X9PoAT\nQRVfObWYC8AQ7Sp+6t+qa1uKZjakYJ2HqeeKrdiEZfx8lxu/HaiEkToVAoGAQvXi\nVbpWhayornhsR7HFl36CyGKhcDybKYL8ZaHLwjJGw2OaS7P6ABvssq9S1pa2wYsg\nkduoejIQRDRLuFu91tG+pfBbBqV6n7aEfKOvlZ77LCl/qZGpcZIKMvZ7kH3TDfmx\nGj3Lecpdrbi6D8KKEWy3xziSrTJ7EOKAn9ezVLkCgYBaHMa/+SvdfymulRFbhyBm\npEOlR0ImvXRSoOkP70QRj5iF/FaWjMqdtLnzN/jzhJEL0rcgIzsTm88gmA6Bvd7p\nNw3fOMbI+visGbrrnMYErmqXkzLkHp+LyH8bC0wePQVKp/XN4M2wbJUA4nrmj7UI\nt6eSOB0SVJAoujWXrnlLlQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@tidy-centaur-416912.iam.gserviceaccount.com",
+  "client_id": "114420112096970466550",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40tidy-centaur-416912.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
