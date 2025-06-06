@@ -1,21 +1,12 @@
 {
-  "name": "ddice-кликер",
+  "name": "ddice-clicker",
+  "version": "0.1.0",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "description": "DDICE Clicker game",
+  "author": "",
+  "license": "UNLICENSED",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "react": "^19.1.0",
-    "react-dom/client": "19.1.0",
-    "react-dom": "^19.1.0"
-  },
-  "devDependencies": {
-    "@types/node": "^22.14.0",
-    "typescript": "~5.7.2",
-    "vite": "^6.2.0"
+    "dev": "mkdir -p build && cp -R ./* build/ || (if not exist build mkdir build && xcopy .\\* .\\build /S /I /Y /Q)",
+    "build": "echo \"Для настоящей сборки используйте инструмент типа Vite и команду типа 'vite build' или 'react-scripts build'. Текущая команда 'npm run build' ничего не собирает.\""
   }
 }
